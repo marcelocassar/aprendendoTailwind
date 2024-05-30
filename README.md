@@ -50,8 +50,4 @@ Boas aulas e feliz codificação! 💻
 
 ---
 
-[Meu Perfil no GitHub](https://github.com/seu-usuario)
-
----
-
 Este README foi gerado para facilitar a compreensão e navegação das minhas primeiras experiências com Tailwind CSS. Vamos juntos dominar essa ferramenta incrível!
