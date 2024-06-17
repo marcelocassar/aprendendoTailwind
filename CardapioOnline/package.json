@@ -4,12 +4,15 @@
   "description": "Nessa aula estou seguindo o projeto: https://www.youtube.com/watch?v=rjXXDv23-6Y&t=1s",
   "main": "index.js",
   "scripts": {
-      "dev": "npx tailwindcss -i ./styles/styles.css -o ./styles/output.css --watch"
+    "dev": "npx tailwindcss -i ./styles/styles.css -o ./styles/output.css --watch"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "devDependencies": {
     "tailwindcss": "^3.4.4"
+  },
+  "dependencies": {
+    "firebase": "^10.12.2"
   }
 }
